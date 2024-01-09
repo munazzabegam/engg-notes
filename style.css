@@ -28,15 +28,6 @@ section {
     width: 100%;
 }
 
-.main {
-    position: absolute;
-}
-
-/* #test {
-    z-index: 1;
-    background: transparent;
-} */
-
 .container {
     background-image: linear-gradient(-135deg, #B18BD5, #CDBBF5,#914AD6);
     /* background-color: antiquewhite; */
