@@ -102,7 +102,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    padding: 15px 23px;
+    padding: 8px 20px;
     color: #dbc99c;
     text-align: center;
     background: #a268d9b2;
@@ -110,7 +110,7 @@ footer {
 
 .footer-section {
     line-height: 2.0;
-    padding: 5px;
+    padding: 3px;
 }
 
 .footer-section h4 {
@@ -128,5 +128,16 @@ footer {
 }
 
 .footer-section a:hover {
+    color: #2a292c;
+}
+
+.contact-me a {
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.contact-me a:hover {
     color: #2a292c;
 }
